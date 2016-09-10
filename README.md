@@ -1,9 +1,9 @@
 # Please keep the 3.5mm audio jack on upcomming Android phones.
 
-This is just a pledge to all android phone manufacturers to **NOT** follow apple's poorly executed idea of removing the 3.5mm audio jack.
+This is a pledge to all Android phone manufacturers to **NOT** follow Apple's poorly executed idea of removing the 3.5mm audio jack.
 
-Just star this project and add your name if you agree.
+Star this project and add your name if you agree.
 
-Sincerely
+Sincerely,
 
 David Darias.
