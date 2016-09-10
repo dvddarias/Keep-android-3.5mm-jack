@@ -7,3 +7,4 @@ Star this project and add your name if you agree.
 Sincerely,
 
 David Darias.
+Claudia Paredes.
