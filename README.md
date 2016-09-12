@@ -1,4 +1,4 @@
-# Please keep the 3.5mm audio jack on upcomming Android phones.
+# Please keep the 3.5mm audio jack on upcoming Android phones.
 
 This is a pledge to all Android phone manufacturers to **NOT** follow Apple's poorly executed idea of removing the 3.5mm audio jack.
 
